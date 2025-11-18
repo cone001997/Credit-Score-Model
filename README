@@ -1,0 +1,15 @@
+#Create dedicated ML environment:
+
+conda create -n credit python=3.11
+conda activate credit
+
+conda install numpy
+conda install pandas
+conda install scikit-learn
+conda install matplotlib
+conda install seaborn
+conda install joblib
+conda install notebook
+
+#single line:
+conda install numpy pandas scikit-learn matplotlib seaborn joblib notebook

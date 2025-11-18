@@ -1,0 +1,1 @@
+The most impactful engineered features came from fixing inconsistent numeric types and handling missing values. Debugging the preprocessing pipeline took the longest, especially aligning numeric/categorical transformations. These choices improved model stability but reduced interpretability.

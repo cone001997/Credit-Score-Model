@@ -1,0 +1,10 @@
+# Ignore model artifacts
+*.pkl
+*.pickle
+*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS junk
+.DS_Store

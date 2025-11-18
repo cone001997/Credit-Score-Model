@@ -1,0 +1,1 @@
+The most surprising EDA finding was the extreme outliers in features like Num_Credit_Card and Interest_rate, which revealed how noisy the dataset is.
